@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oselmanda.github.io/sitemap.html.gz
+Sitemap: https://oselmanda.github.io/app/sitemap.html.gz
+Sitemap: https://oselmanda.github.io/assets/sitemap.html.gz
+Sitemap: https://oselmanda.github.io/css/sitemap.html.gz
+Sitemap: https://oselmanda.github.io/includes/sitemap.html.gz
+Sitemap: https://oselmanda.github.io/item/sitemap.html.gz
+Sitemap: https://oselmanda.github.io/src/sitemap.html.gz
